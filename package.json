@@ -1,0 +1,23 @@
+{
+  "name": "mongoosetutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "devStart": "nodemon script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khaoula036/MongooseTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khaoula036/MongooseTutorial/issues"
+  },
+  "homepage": "https://github.com/Khaoula036/MongooseTutorial#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
